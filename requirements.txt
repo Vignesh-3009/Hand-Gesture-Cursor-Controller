@@ -1,0 +1,4 @@
+opencv-python
+mediapipe==1.2.3
+pyautogui
+numpy
